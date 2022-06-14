@@ -1,6 +1,6 @@
 # ESp8266-ST7735-bitmap
-https://youtu.be/iLHKOl83lfo
-In this video I explain how to connect an ST7735 LCD with esp8266 and use Adafruit GFX library to draw bitmap image without using SD card just using flash memory .
+##https://youtu.be/iLHKOl83lfo
+##In this video I explain how to connect an ST7735 LCD with esp8266 and use Adafruit GFX library to draw bitmap image without using SD card just using flash memory .
 Converting Images to Flash Memory  for TFT (without SD Card)
 ---------------------------------------------------
 The Pin Connection:
@@ -14,14 +14,9 @@ The Pin Connection:
 | SCK  |  D5  |
 | LED  |  3.3V  |
 
-               
-                
-                  
-              
-           
-           
-                  
-                
+Image Resizer : http://www.faststone.org/FSResizerDownload.htm
+LCD image Converter : https://sourceforge.net/projects/lcd-image-converter/
+
 ---------------------------------------------------
 To works with the Adafruit 1.8" TFT  you need this  libraries :
 Adafruit GFX library: https://github.com/adafruit/Adafruit-GFX-Library
