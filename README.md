@@ -18,8 +18,7 @@ The Pin Connection:
                 
                   
 Image Resizer : http://www.faststone.org/FSResizerDownload.htm.
-
-LCD image Converter : https://sourceforge.net/projects/lcd-image-converter/           
+LCD image Converter : https://sourceforge.net/projects/lcd-image-converter/ .          
            
            
                   
